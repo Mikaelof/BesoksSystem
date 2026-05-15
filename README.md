@@ -1,4 +1,4 @@
-# VisitEase 🏢
+# VisitSys 🏢
 
 A free and open source visitor management system built with PHP and MariaDB, designed for small and medium-sized businesses.
 
